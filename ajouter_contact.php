@@ -1,5 +1,5 @@
 <?php
-    <form action="ajouter_contact.php" method="post">
+    <form action="ajouter_contact.php" method="POST">
         <label for="nom">Nom :</label>
         <input type="text" id="nom" name="nom"><br>
 
